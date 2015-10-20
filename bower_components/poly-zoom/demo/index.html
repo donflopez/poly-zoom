@@ -1,0 +1,31 @@
+<html style="width: 100%; height: 100%;">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
+    <title>Poly Zoom</title>
+    <script src="../../webcomponentsjs/webcomponents-lite.js"></script>
+    <script>
+      window.Polymer = window.Polymer || {};
+      window.Polymer.dom = 'shadow';
+    </script>
+    <link rel="import" href="../poly-zoom.html">
+    <style media="screen">
+
+      html, body {
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+      }
+
+      poly-zoom {
+        display: block;
+      }
+
+    </style>
+  </head>
+  <body>
+    <poly-zoom>
+      <img src="https://avatars1.githubusercontent.com/u/463462?v=3&s=460" alt="">
+    </poly-zoom>
+  </body>
+</html>
