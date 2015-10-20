@@ -75,6 +75,7 @@ Polymer({
   },
 
   onScroll: function( e ) {
+    e.preventDefault();
     this.rect = this.scale === 1 ? this.getBoundingClientRect() : this.rect;
 
     var x = e.x - this.rect.left,

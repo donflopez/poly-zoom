@@ -1,18 +1,17 @@
 {
   "name": "poly-zoom",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "authors": [
     "Francisco López <donflopez@gmail.com>"
   ],
-  "description": "Bring an incredible zoom (60fps) to your project using this element",
+  "description": "Get an amazing zoom in your project using this element.",
   "keywords": [
     "web-component",
     "web-components",
     "polymer",
     "zoom",
     "drag",
-    "fast",
-    "easy"
+    "polyter"
   ],
   "main": "poly-zoom.html",
   "license": "https://github.com/donflopez/poly-zoom/blob/master/LICENSE",
@@ -22,16 +21,10 @@
     "url": "git://github.com/donflopez/poly-zoom.git"
   },
   "ignore": [
-    "/.*",
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "/.*"
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0"
   },
-  "devDependencies": {},
-  "moduleType": []
+  "devDependencies": {}
 }
