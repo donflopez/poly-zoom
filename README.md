@@ -1,6 +1,7 @@
 # poly-zoom
 Bring an incredible zoom (60fps) to your project using this element
 
+[Try a demo](http://donflopez.github.io/poly-zoom/)
 
 **Usage:** 
 
