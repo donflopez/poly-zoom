@@ -1,6 +1,6 @@
 {
   "name": "poly-zoom",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "authors": [
     "Francisco López <donflopez@gmail.com>"
   ],
@@ -27,11 +27,11 @@
     "polymer": "Polymer/polymer#^1.0.0"
   },
   "devDependencies": {},
-  "_release": "0.5.1",
+  "_release": "0.5.3",
   "_resolution": {
     "type": "version",
-    "tag": "0.5.1",
-    "commit": "d45319527f9107762ab7c2cc1d63a57675aee737"
+    "tag": "0.5.3",
+    "commit": "bccbfe8b299ed5727934c583a90517c6776fac1e"
   },
   "_source": "git://github.com/donflopez/poly-zoom.git",
   "_target": "*",

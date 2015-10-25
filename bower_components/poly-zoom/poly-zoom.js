@@ -141,7 +141,7 @@ Polymer({
     this.x = this.atDownX - x;
     this.y = this.atDownY - y;
 
-    this.apply();
+    this._apply();
   },
 
   _endHandle: function( e ) {
